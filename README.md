@@ -22,14 +22,13 @@ this is basically my first project on frontend mentor which involves replicating
 iwas able to replicate with the  help of guildlines and some few youtube tutorials and more also was able to add my own styles like the box shadow to give it more creativity and uniqness.
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Screenshot 2024-04-21 022243](https://github.com/balogunvinh/frontendmentorprojects/assets/105133779/1f9c03ac-1beb-4617-8349-971297f176f5)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://balogunvinh.github.io/frontendmentorprojects/
+- Live Site URL: https://balogunvinh.github.io/frontendmentorprojects/
 
 ## My process
 studing every details of the design
@@ -79,7 +78,7 @@ youtube
 
 ## Author
 
-- Website - [Balogun Emmanuel](https://www.your-site.com)
+- Website - [Balogun Emmanuel]
 - Frontend Mentor - [Balogunvinh](https://www.frontendmentor.io/profile/Balogunvinh)
 - Twitter - [@Balogunvinh](https://www.twitter.com/Balogunvinh)
 
